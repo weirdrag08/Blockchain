@@ -1,6 +1,6 @@
 const SHA256 = require('crypto-js/sha256');
 
-
+    
 // ? Node Structure (How each block looks like when present inside a blockchain)
 
 class node_block{

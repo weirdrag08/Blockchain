@@ -1,1 +1,1 @@
-console.log(my_chain.isBlockChainValid());
+ console.log(my_chain.isBlockChainValid());
